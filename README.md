@@ -17,7 +17,7 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aakashnath645&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aakashnath645&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ### :fire: Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashnath645&theme=tokyonight)
