@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aakashnath645
-- 👀 I’m interested in Data Science and Data Analytics
-- 🌱 I’m currently learning Java, Python and C
-- 💞️ I’m looking to collaborate on Data Science & Analytics
+- 👀 I’m interested in Cybersecurity & Data Science
+- 🌱 I’m currently learning Java, Python and C/C++
+- 💞️ I’m looking to collaborate on Cybersecurity & Data Science
 - 📫 How to reach me
 -      aakashnath645@gmail.com
 -      9123870182
