@@ -1,11 +1,6 @@
-
-<br clear="both">
-
-<h2 align="left">Hi 👋! My name is Aakash Nath and I'm a software developer from India</h2>
+<h2 align="center">Hi 👋! My name is Aakash Nath and I'm a software developer from India</h2>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aakashnath645&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
@@ -19,7 +14,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src=""  />
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBrMmE0c3BtdGRucTE3aGJpN3dxaDZpY2o3d2I4ejNoaDdja3podyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V2mv7jrcUIAN1d7ZQ8/giphy.gif"  />
 
 ###
 
@@ -57,8 +52,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Aakashnath645/Aakashnath645/output/snake.svg" alt="Snake animation" />
 
