@@ -5,6 +5,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashnath645" alt="aakashnath645" /></a> </p>
 
+- 🔭 I’m currently working on [Resume Screening Assistant](https://github.com/Aakashnath645/Resume-Processing)
+
+- 🌱 I’m currently learning **Cloud Computing**
+
+- 👯 I’m looking to collaborate on **Full Stack Projects**
+
+- 🤝 I’m looking for help with **learning Frontend and Backend technologies**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Aakashnath645](https://github.com/Aakashnath645)
+
+- 💬 Ask me about **Python, Java and OOPs**
+
+- 📫 How to reach me **aakashnath645@gmail.com**
+
+- ⚡ Fun fact **I may be a Jedi(or Sith!)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -15,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashnath645&show_icons=true&locale=en&layout=compact" alt="aakashnath645" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashnath645&show_icons=true&locale=en" alt="aakashnath645" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashnath645&" alt="aakashnath645" /></p>
