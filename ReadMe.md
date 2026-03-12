@@ -103,7 +103,7 @@ I'm a **full-stack developer and AI/ML enthusiast** based in **Kolkata, India**,
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=Aakashnath645&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aakashnath645)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
